@@ -25,12 +25,16 @@ author_profile: true
   📖​ To appear in *Journal of the European Mathematical Society(JEMS)*  
   with [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [L. Wang](https://lwmath.github.io) |🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2209.11681)
 
+* ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  
+  📖 *Science China Mathematics* 67 (2024), 557-576
+  with [J. X. Wang] |🔗[arXiv](https://arxiv.org/abs/2201.02061)​
+
 * **Interior estimates for Monge-Ampère type fourth order equations**​  
   ​📖​ *Revista Matematica Iberoamericana*, 39 (2023), no. 5, 1895–1923  
   with [L. Wang](https://lwmath.github.io) |🌐[doi](https://doi.org/10.4171/rmi/1361) |📜[PDF](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2206.02309)
 
-* ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  
-  📖 Science China Mathematics 67 (2024), 557-576
-  with [J. X. Wang] |🔗[arXiv](https://arxiv.org/abs/2201.02061)​
-
+* **Solvability of a class of singular fourth order equations of Monge-Ampère type**​​  
+  📖​ *Annals of PDE* 7 (2021), no. 2, Paper No. 13  
+  with [N. Q. Le](https://nqle.pages.iu.edu/)|🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2011.05262)
+  
 
