@@ -25,3 +25,7 @@ author_profile: true
   
 * **Green's function for equations with conic metrics**​​  (with [L. D. Huang](https://math.xmu.edu.cn/info/1082/24799.htm)) 📖​ *Calculus of Variations and PDE*  (2021) 60:232 🌐[doi](https://doi.org/10.1007/s00526-021-02103-5)
 
+* **Regularity for a class of singular complex Hessian equations**​​  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Acta Mathematica Sinica (Engl. Ser.)* 37 (2021), no. 11, 1709-1720
+
+* **Monotonicity formulae for the complex Hessian equations**  (with [J. X. Wang] (https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Methods and Applications of Analysis* 28 (2021), No. 1, 77-84 
+
