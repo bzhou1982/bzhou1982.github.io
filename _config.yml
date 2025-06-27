@@ -25,7 +25,7 @@ author:
   avatar           : "bz.jpg"
   name             : "Bin Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at Peking University"
+  bio              : #""
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
