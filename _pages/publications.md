@@ -40,10 +40,12 @@ author_profile: true
 
 * **Optimal regularity of plurisubharmonic envelopes on compact Hermitian manifolds** (with [J. C. Chu](https://www.math.pku.edu.cn/teachers/jianchunchu/)) 📖 *Science China Mathematics* 62 (2019), 371-380 🌐[doi](https://doi.org/10.1007/s11425-017-9173-0)| 🔗[arXiv](https://arxiv.org/abs/1702.05230)
 
+* **Relative Algebro-Geometric stabilities of Toric manifolds**​​  (with [N. Yotsutani](https://shizuoka.academia.edu/NaotoYotsutani)) 📖​ *Tohoku Mathematical Journal* (2) 71 (2019), no. 4, 495-524 🌐[doi](https://doi.org/10.2748/tmj/1576724790) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1602.08201)
 
+* **K-energy on polarized group compactifications of  Lie groups**​​  (with [Y. Li](https://math.bit.edu.cn/szdw/jgml/sxx/ly/index.htm),[X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖​ *Journal Functional Analysis* 275 (2018), no. 5, 1023-1072  🌐[doi](https://doi.org/10.1016/j.jfa.2018.04.009) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1701.00306)
 
+* **Variational solutions to extremal metrics on toric surfaces**​​  📖​ *Mathematische Zeitschrift* 283(2016), 1011-1031  🌐[doi](https://doi.org/10.1007/s00209-016-1631-z) |📜[PDF]() |🔗[arXiv]()
 
-
-
+* **Modified Futaki invariant and equivariant Riemann-Roch formula**​​  (with [F. Wang](), [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖​ *Advances in Mathematics* 289(2016), 1205-1235  🌐[doi](https://doi.org/10.1016/j.aim.2015.11.036) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1408.3784)
 
 
