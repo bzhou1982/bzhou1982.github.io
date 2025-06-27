@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+I am an associate Professor at Peking University.
+
+I was a Research Fellow at The Australian National University between 2012-2016.
+
+I was a Postdoc at BICMR between 2010-2012.
+
 I completed my Ph.D. at the School of Mathematical Sciences, Peking University, and Center for Mathematics and Its Applications, The Australian National University, under the supervision of Prof. [Xiaohua Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm) and Prof. [Xu-Jia Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html) in 2010.
 
 My research interests lie primarily in **geometric analysis** and **nonlinear PDEs**.
