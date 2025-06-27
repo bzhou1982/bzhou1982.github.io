@@ -23,6 +23,9 @@ You can find me at Room 324, Zhihua Building , Peking University. <br>
 Feel free to reach out to me via email at <bzhou@pku.edu.cn>. <br>
 I'm always open to communication and collaboration!
 
+This is my [CV](http://bzhou1982.github.io/files/CV_Bin Zhou.pdf) (June 2025).
+
+
 # links
 
 [2025 Summer School on Differential Geometry](https://bicmr.pku.edu.cn/content/show/17-3575.html?catid=KiQhKyYs)
