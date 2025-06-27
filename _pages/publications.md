@@ -39,5 +39,5 @@ author_profile: true
   
 * **Green's function for equations with conic metrics**​​  
 📖​ *Calculus of Variations and PDE*  (2021) 60:232
- with [Liding Huang](https://math.xmu.edu.cn/info/1082/24799.htm)|🌐[doi]https://doi.org/10.1007/s00526-021-02103-5.
+  with [Liding Huang](https://math.xmu.edu.cn/info/1082/24799.htm)|🌐[doi]https://doi.org/10.1007/s00526-021-02103-5.
 
