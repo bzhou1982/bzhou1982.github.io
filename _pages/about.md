@@ -9,11 +9,11 @@ redirect_from:
 
 
 
-I am an associate professor at Peking University.
+I am an associate professor at [School of Mathematical Sciences](https://www.math.pku.edu.cn) at Peking University.
 
-I was a Research Fellow at The Australian National University between 2012-2016.
+I was a Research Fellow at [MSI, The Australian National University](https://maths.anu.edu.au) between 2012-2016.
 
-I was a Postdoc at BICMR between 2010-2012.
+I was a Postdoc at [BICMR](https://bicmr.pku.edu.cn) between 2010-2012.
 
 I completed my Ph.D. at Peking University and the Australian National University, under the supervision of Prof. [Xiaohua Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm) and Prof. [Xu-Jia Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html) in 2010.
 
