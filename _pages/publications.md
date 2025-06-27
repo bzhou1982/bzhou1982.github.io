@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* ​**Sobolev inequalities and regularity of the linearized complex Monge-Amp\`ere and Hessian equations​​**  
+* ​**Sobolev inequalities and regularity of the linearized complex Monge-Ampère and Hessian equations​​**  
   📖 Transactions of the American Mathematical Society, 378(2025), 447-475.
   with [J. X. Wang] |🔗[arXiv](https://arxiv.org/abs/2307.10530)​
 * **The partial Legendre transform in Monge-Ampère equations**​  
