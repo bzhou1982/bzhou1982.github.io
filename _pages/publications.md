@@ -8,6 +8,7 @@ author_profile: true
 * ​**Sobolev inequalities and regularity of the linearized complex Monge-Ampère and Hessian equations​​**  
   📖 Transactions of the American Mathematical Society, 378(2025), 447-475.
   with [J. X. Wang] |🔗[arXiv](https://arxiv.org/abs/2307.10530)​
+  
 * **The partial Legendre transform in Monge-Ampère equations**​  
   📖 Preprint (2024)  
   with [L. Wang](https://lwmath.github.io) |📜[PDF](http://lwmath.github.io/files/survey_PLT.pdf)
@@ -27,3 +28,9 @@ author_profile: true
 * **Interior estimates for Monge-Ampère type fourth order equations**​  
   ​📖​ *Rev. Mat. Iberoam.*, 39 (2023), no. 5, 1895–1923  
   with [L. Wang](https://lwmath.github.io) |🌐[doi](https://doi.org/10.4171/rmi/1361) |📜[PDF](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2206.02309)
+
+* ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  
+  📖 Science China Mathematics 67 (2024), 557-576.
+  with [J. X. Wang] |🔗[arXiv](https://arxiv.org/abs/2201.02061)​
+
+
