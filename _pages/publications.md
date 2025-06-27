@@ -30,16 +30,16 @@ author_profile: true
 * **Monotonicity formulae for the complex Hessian equations**  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Methods and Applications of Analysis* 28 (2021), No. 1, 77-84 🌐[doi](http://dx.doi.org/10.4310/maa.2021.v28.n1.a6)
 
 
-* **A priori estimates for the complex Monge-Ampère equation** (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html))​ 📖​ *Peking Mathematical Journal* (2021) 4:143-157
+* **A priori estimates for the complex Monge-Ampère equation** (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html))​ 📖​ *Peking Mathematical Journal* (2021) 4:143-157 🌐[doi](https://doi.org/10.1007/s42543-020-00025-3)|🔗[arXiv](https://arxiv.org/abs/2003.06059)
 
 * **On the four vertex theorem for curves on locally convex surfaces** (with [S. B. Chen](https://faculty.ustc.edu.cn/chenshibing), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html))
-📖 *Mathematical Research Letters* 27(2020), no. 5, 1261-1279 
+📖 *Mathematical Research Letters* 27(2020), no. 5, 1261-1279 🌐[doi](https://dx.doi.org/10.4310/MRL.2020.v27.n5.a1)
 
-* **Moser-Trudinger inequality for the complex Monge-Ampère equation** (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Journal of Functional Analysis* 279 (2020) 108765
+* **Moser-Trudinger inequality for the complex Monge-Ampère equation** (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Journal of Functional Analysis* 279 (2020) 108765 🌐[doi](https://doi.org/10.1016/j.jfa.2020.108765)|🔗[arXiv](https://arxiv.org/abs/2003.06056)
   
-* **Mabuchi metrics and properness of modified Ding functional** (with [Y. Li](https://math.bit.edu.cn/szdw/jgml/sxx/ly/index.htm)) 📖 *Pacific Journal of Mathematics* 302(2019), 659-692
+* **Mabuchi metrics and properness of modified Ding functional** (with [Y. Li](https://math.bit.edu.cn/szdw/jgml/sxx/ly/index.htm)) 📖 *Pacific Journal of Mathematics* 302(2019), 659-692 🌐[doi](https://msp.org/pjm/2019/302-2/p11.xhtml)|🔗[arXiv](https://arxiv.org/abs/1709.03029)
 
-* **Optimal regularity of plurisubharmonic envelopes on compact Hermitian manifolds** (with [J. C. Chu](https://www.math.pku.edu.cn/teachers/jianchunchu/)) 📖 *Science China Mathematics* 62 (2019), 371-380
+* **Optimal regularity of plurisubharmonic envelopes on compact Hermitian manifolds** (with [J. C. Chu](https://www.math.pku.edu.cn/teachers/jianchunchu/)) 📖 *Science China Mathematics* 62 (2019), 371-380 🌐[doi](https://doi.org/10.1007/s11425-017-9173-0)| 🔗[arXiv](https://arxiv.org/abs/1702.05230)
 
 
 
