@@ -17,7 +17,7 @@ author_profile: true
 
 * **Singular Abreu equations and linearized Monge-Ampère equations with drifts**​​  (with [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [L. Wang](https://lwmath.github.io)) 📖​ To appear in *Journal of the European Mathematical Society(JEMS)*  🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2209.11681)
 
-* ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Science China Mathematics* 67 (2024), 557-576 🔗[arXiv](https://arxiv.org/abs/2201.02061)​
+* ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Science China Mathematics* 67 (2024), 557-576 🌐[doi](https://doi.org/10.1007/s11425-022-2100-1)|🔗[arXiv](https://arxiv.org/abs/2201.02061)​
 
 * **Interior estimates for Monge-Ampère type fourth order equations**​  (with [L. Wang](https://lwmath.github.io)) ​📖​ *Revista Matematica Iberoamericana*, 39 (2023), no. 5, 1895–1923  🌐[doi](https://doi.org/10.4171/rmi/1361) |📜[PDF](http://lwmath.github.io/files/int-est-4th-eq-revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2206.02309)
 
