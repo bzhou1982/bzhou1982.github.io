@@ -15,6 +15,7 @@ author_profile: true
   
 * ​**Sobolev inequalities and regularity of the linearized complex Monge-Ampère and Hessian equations​​**  
   📖 *Transactions of the American Mathematical Society*, 378(2025), 447-475
+  
    with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm) |🔗[arXiv](https://arxiv.org/abs/2307.10530)​
   
 * **Liouville theorems for a class of degenerate or singular Monge-Ampère equations​**  
