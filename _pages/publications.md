@@ -27,5 +27,5 @@ author_profile: true
 
 * **Regularity for a class of singular complex Hessian equations**​​  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Acta Mathematica Sinica (Engl. Ser.)* 37 (2021), no. 11, 1709-1720
 
-* **Monotonicity formulae for the complex Hessian equations**  (with [J. X. Wang] (https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Methods and Applications of Analysis* 28 (2021), No. 1, 77-84 
+* **Monotonicity formulae for the complex Hessian equations**  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm)) 📖 *Methods and Applications of Analysis* 28 (2021), No. 1, 77-84 
 
