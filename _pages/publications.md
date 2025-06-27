@@ -15,7 +15,6 @@ author_profile: true
   
 * ​**Sobolev inequalities and regularity of the linearized complex Monge-Ampère and Hessian equations​​**  
   📖 *Transactions of the American Mathematical Society*, 378(2025), 447-475
-  
    with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm) |🔗[arXiv](https://arxiv.org/abs/2307.10530)​
   
 * **Liouville theorems for a class of degenerate or singular Monge-Ampère equations​**  
@@ -28,7 +27,7 @@ author_profile: true
 
 * ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  
   📖 *Science China Mathematics* 67 (2024), 557-576
-   with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm) |🔗[arXiv](https://arxiv.org/abs/2201.02061)​
+  with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm) |🔗[arXiv](https://arxiv.org/abs/2201.02061)​
 
 * **Interior estimates for Monge-Ampère type fourth order equations**​  
   ​📖​ *Revista Matematica Iberoamericana*, 39 (2023), no. 5, 1895–1923  
@@ -40,5 +39,5 @@ author_profile: true
   
 * **Green's function for equations with conic metrics**​​  
   📖​ *Calculus of Variations and PDE*  (2021) 60:232
-   with [L. D. Huang](https://math.xmu.edu.cn/info/1082/24799.htm) |🌐[doi](https://doi.org/10.1007/s00526-021-02103-5)
+  with [L. D. Huang](https://math.xmu.edu.cn/info/1082/24799.htm) |🌐[doi](https://doi.org/10.1007/s00526-021-02103-5)
 
