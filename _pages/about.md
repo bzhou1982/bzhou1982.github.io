@@ -26,7 +26,7 @@ I'm always open to communication and collaboration!
 This is my [CV](http://bzhou1982.github.io/files/CV_bzhou.pdf) (June 2025).
 
 
-# links
+# Links
 
 [2025 Summer School on Differential Geometry](https://bicmr.pku.edu.cn/content/show/17-3575.html?catid=KiQhKyYs)
 
