@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* ​**Flat level sets of Allen-Cahn equation in half-space​​**  
-  📖 Preprint (2024)  
+* ​**Sobolev inequalities and regularity of the linearized complex Monge-Amp\`ere and Hessian equations​​**  
+  📖 Transactions of the American Mathematical Society, 378(2025), 447-475.
   with [W. K. Du](https://www.math.toronto.edu/wenkuidu/), [Y. Yang](https://sites.google.com/uci.edu/yangyang) |​📜[PDF](http://lwmath.github.io/files/AC_bernstein.pdf) |🔗[arXiv](https://arxiv.org/abs/2412.20335)​
 * **The partial Legendre transform in Monge-Ampère equations**​  
   📖 Preprint (2024)  
