@@ -32,8 +32,7 @@ author_profile: true
 
 * **A priori estimates for the complex Monge-Ampère equation** (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html))​ 📖​ *Peking Mathematical Journal* (2021) 4:143-157 🌐[doi](https://doi.org/10.1007/s42543-020-00025-3)|🔗[arXiv](https://arxiv.org/abs/2003.06059)
 
-* **On the four vertex theorem for curves on locally convex surfaces** (with [S. B. Chen](https://faculty.ustc.edu.cn/chenshibing), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html))
-📖 *Mathematical Research Letters* 27(2020), no. 5, 1261-1279 🌐[doi](https://dx.doi.org/10.4310/MRL.2020.v27.n5.a1)
+* **On the four vertex theorem for curves on locally convex surfaces** (with [S. B. Chen](https://faculty.ustc.edu.cn/chenshibing), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Mathematical Research Letters* 27(2020), no. 5, 1261-1279 🌐[doi](https://dx.doi.org/10.4310/MRL.2020.v27.n5.a1)
 
 * **Moser-Trudinger inequality for the complex Monge-Ampère equation** (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Journal of Functional Analysis* 279 (2020) 108765 🌐[doi](https://doi.org/10.1016/j.jfa.2020.108765)|🔗[arXiv](https://arxiv.org/abs/2003.06056)
   
