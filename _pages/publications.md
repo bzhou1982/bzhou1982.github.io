@@ -37,4 +37,7 @@ author_profile: true
   📖​ *Annals of PDE* 7 (2021), no. 2, Paper No. 13  
   with [N. Q. Le](https://nqle.pages.iu.edu/)|🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2011.05262)
   
+* **Green's function for equations with conic metrics**​​  
+📖​ *Calculus of Variations and PDE*  (2021) 60:232.
+with [Liding Huang]|🌐[doi]https://doi.org/10.1007/s00526-021-02103-5.
 
