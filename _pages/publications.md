@@ -48,7 +48,7 @@ author_profile: true
 
 * **Modified Futaki invariant and equivariant Riemann-Roch formula**​​  (with [F. Wang](), [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖​ *Advances in Mathematics* 289(2016), 1205-1235  🌐[doi](https://doi.org/10.1016/j.aim.2015.11.036) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1408.3784)
 
-* **The signed mean curvature measure** (with [Q. Y. Dai](https://mc.hunnu.edu.cn/info/1654/5015.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 * Contemporary Mathematics* Volume 644(2015) 🌐[doi](http://dx.doi.org/10.1090/conm/644/12776)
+* **The signed mean curvature measure** (with [Q. Y. Dai](https://mc.hunnu.edu.cn/info/1654/5015.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Contemporary Mathematics* Volume 644(2015) 🌐[doi](http://dx.doi.org/10.1090/conm/644/12776)
 
 * **K-stabilty and canonical metrics on toric manifolds** (with [X. J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Bulletin of the Institute of Mathematics Academia Sinica(New Series)* 9(2014), 85-110
 
