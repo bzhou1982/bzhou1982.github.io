@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * ​**Sobolev inequalities and regularity of the linearized complex Monge-Ampère and Hessian equations​​**  
-  📖 Transactions of the American Mathematical Society, 378(2025), 447-475.
+  📖 Transactions of the American Mathematical Society, 378(2025), 447-475
   with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm) |🔗[arXiv](https://arxiv.org/abs/2307.10530)​
   
 * **The partial Legendre transform in Monge-Ampère equations**​  
@@ -38,6 +38,6 @@ author_profile: true
   with [N. Q. Le](https://nqle.pages.iu.edu/)|🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2011.05262)
   
 * **Green's function for equations with conic metrics**​​  
-📖​ *Calculus of Variations and PDE*  (2021) 60:232
+  📖​ *Calculus of Variations and PDE*  (2021) 60:232
   with [L. D. Huang](https://math.xmu.edu.cn/info/1082/24799.htm) |🌐[doi](https://doi.org/10.1007/s00526-021-02103-5)
 
