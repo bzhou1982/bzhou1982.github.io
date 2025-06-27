@@ -45,12 +45,29 @@ author_profile: true
 
 * **Variational solutions to extremal metrics on toric surfaces**​​  📖​ *Mathematische Zeitschrift* 283(2016), 1011-1031  🌐[doi](https://doi.org/10.1007/s00209-016-1631-z) |📜[PDF]() |🔗[arXiv]()
 
-* **Modified Futaki invariant and equivariant Riemann-Roch formula**​​  (with [F. Wang](), [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖​ *Advances in Mathematics* 289(2016), 1205-1235  🌐[doi](https://doi.org/10.1016/j.aim.2015.11.036) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1408.3784)
+* **Modified Futaki invariant and equivariant Riemann-Roch formula**​​  (with [F. Wang](https://person.zju.edu.cn/0014136#794451), [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖​ *Advances in Mathematics* 289(2016), 1205-1235  🌐[doi](https://doi.org/10.1016/j.aim.2015.11.036) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1408.3784)
 
 * **The signed mean curvature measure** (with [Q. Y. Dai](https://mc.hunnu.edu.cn/info/1654/5015.htm), [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Contemporary Mathematics* Volume 644(2015) 🌐[doi](http://dx.doi.org/10.1090/conm/644/12776) |📜[PDF]()
 
 * **K-stabilty and canonical metrics on toric manifolds** (with [X. J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Bulletin of the Institute of Mathematics Academia Sinica(New Series)* 9(2014), 85-110 🌐[doi]()|📜[PDF]()
 
-* **An obstacle problem for Monge-Ampere typed functionals** (with [J. K. Liu](https://person.zju.edu.cn/0014136#794451)) 📖​ *Journal of Differential Equations* 254(2013), 1306-1325 🌐[doi](https://doi.org/10.1016/j.jde.2012.10.017) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1204.1788)
+* **An obstacle problem for Monge-Ampère typed functionals** (with [J. K. Liu](https://person.zju.edu.cn/0014136#794451)) 📖​ *Journal of Differential Equations* 254(2013), 1306-1325 🌐[doi](https://doi.org/10.1016/j.jde.2012.10.017) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1204.1788)
 
 * **Sobolev inequality for complex Hessian equations** 📖​ *Mathematische Zeitschrift* 274(2013), 1306-1325 🌐[doi](https://doi.org/10.1007/s00209-012-1084-y)| 📜[PDF]() |🔗[arXiv]()
+ 
+* **Variational problems of Monge-Ampère type** (with [X. J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Fifth International Congress of Chinese Mathematicians Part 1, AMS/IP Studies in Advanced Mathematics*  Vol. 51, Amer. math. Soc., Providence, RI, 2012, 383-296
+
+* **The first boundary value problem for Abreu's equation** 📖*International Mathematics Research Notice* 7(2012), 1439-1484 🌐[doi](https://doi.org/10.1093/imrn/rnr076)| 📜[PDF]()  |🔗[arXiv](https://arxiv.org/abs/1009.1834)
+
+* **The Bernstein theorem for a class of fourth order equations** 📖*Calculus of Variations and PDE* 43(2012), 25-44 🌐[doi](https://doi.org/10.1007/s00526-011-0401-3) | 📜[PDF]()  |🔗[arXiv]()
+
+* **On the existence and nonexistence of extremal metrics on toric K\"ahler surfaces**  (with [X. J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Advances in Mathematics* 226(2011), 4429-4455 🌐[doi](https://doi.org/10.1016/j.aim.2010.12.008)| 📜[PDF]()  |🔗[arXiv]()
+
+* **Minimizing weak solutions for Calabi's extremal metrics on toric manifolds**   (with [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖*Calculus of Variations and PDE* 32(2008), 191-217 🌐[doi](https://doi.org/10.1007/s00526-007-0136-3) | 📜[PDF]()  |🔗[arXiv](https://arxiv.org/abs/math/0611099)
+
+* **K-stability on toric manifolds** (with [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖*Proceedings of American Mathematical  Society* 136(2008), 3301-3307 🌐[doi](http://www.jstor.org/stable/20535545) | 📜[PDF]()  |🔗[arXiv](https://arxiv.org/abs/0706.0505)
+
+* **Relative K-stability and modified K-energy on toric manifolds** (with [X. H. Zhu](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70486.htm)) 📖*Advances in Mathematics* 219(2008), 1327-1362 🌐[doi](https://doi.org/10.1016/j.aim.2008.06.016) | 📜[PDF]()  |🔗[arXiv](https://arxiv.org/abs/math/0603237)
+
+
+
