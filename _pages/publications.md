@@ -21,9 +21,9 @@ author_profile: true
   ​📖​ *Journal of Geometric Analysis*, 34 (2024), no. 11, Paper No. 352  
   🌐[doi](https://doi.org/10.1007/s12220-024-01795-3) |📜[PDF](http://lwmath.github.io/files/Liou_MA_2d_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2304.12060)
 
-* **Singular Abreu equations and linearized Monge-Ampère equations with drifts**​​  (with [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [L. Wang](https://lwmath.github.io) |🌐[doi](https://doi.org/10.4171/jems/1548) )
+* **Singular Abreu equations and linearized Monge-Ampère equations with drifts**​​  (with [Y. H. Kim](https://younghokim.io/), [N. Q. Le](https://nqle.pages.iu.edu/), [L. Wang](https://lwmath.github.io))
   📖​ To appear in *Journal of the European Mathematical Society(JEMS)*  
-  📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2209.11681)
+  🌐[doi](https://doi.org/10.4171/jems/1548) |📜[PDF](http://lwmath.github.io/files/singular_Abreu_HD_revised.pdf) |🔗[arXiv](https://arxiv.org/abs/2209.11681)
 
 * ​**Trace inequalities, isocapacitary inequalities and regularity of the complex Hessian equations**  (with [J. X. Wang](https://math.nankai.edu.cn/2024/0110/c5621a535156/page.htm))
   📖 *Science China Mathematics* 67 (2024), 557-576
