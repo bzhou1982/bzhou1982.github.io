@@ -51,7 +51,7 @@ author_profile: true
 
 * **K-stabilty and canonical metrics on toric manifolds** (with [X.-J. Wang](https://en.westlake.edu.cn/faculty/Xujia-Wang.html)) 📖 *Bulletin of the Institute of Mathematics Academia Sinica(New Series)* 9(2014), 85-110 🌐[doi]()|📜[PDF]() | 🔗[arXiv]()
 
-* **An obstacle problem for Monge-Ampère typed functionals** (with [J. K. Liu](https://person.zju.edu.cn/0014136#794451)) 📖​ *Journal of Differential Equations* 254(2013), 1306-1325 🌐[doi](https://doi.org/10.1016/j.jde.2012.10.017) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1204.1788)
+* **An obstacle problem for Monge-Ampère typed functionals** (with [J. K. Liu](https://www.sydney.edu.au/science/about/our-people/academic-staff/jiakun.liu.html)) 📖​ *Journal of Differential Equations* 254(2013), 1306-1325 🌐[doi](https://doi.org/10.1016/j.jde.2012.10.017) |📜[PDF]() |🔗[arXiv](https://arxiv.org/abs/1204.1788)
 
 * **Sobolev inequality for complex Hessian equations** 📖​ *Mathematische Zeitschrift* 274(2013), 1306-1325 🌐[doi](https://doi.org/10.1007/s00209-012-1084-y)| 📜[PDF]() |🔗[arXiv]()
  
