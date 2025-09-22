@@ -30,4 +30,4 @@ This is my [CV](http://bzhou1982.github.io/files/CV_bzhou.pdf) (September 2025).
 
 [2025 Summer School on Differential Geometry](https://bicmr.pku.edu.cn/content/show/17-3575.html?catid=KiQhKyYs)
 
-**Last updated: 2025. 6. 27**
+**Last updated: 2025. 9. 22**
