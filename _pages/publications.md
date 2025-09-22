@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **The partial Legendre transform in Monge-Ampère equations**​  (with [L. Wang](https://lwmath.github.io)) 📖 Preprint (2024)  📜[PDF](http://lwmath.github.io/files/survey_PLT.pdf)
+* **H\"older regularity of Dirichlet problem for the complex Monge-Amp\`ere equation**​  (with [Y. X. Hu]) 📖 Preprint (2025)  📜 |🔗[arXiv](https://arxiv.org/abs/2509.11329)
+
+* **The partial Legendre transform in Monge-Ampère equations**​  (with [L. Wang](https://lwmath.github.io)) 📖 Surveys in Geometric Analysis 8(2024)  📜[PDF](http://lwmath.github.io/files/survey_PLT.pdf)
 
 * **C<sup>1,&alpha;</sup> regularity of variational problems with a convexity constraint​**  (with [L. Wang](https://lwmath.github.io))
   ​📖 Preprint (2024)  📜[PDF](http://lwmath.github.io/files/Int_Regularity.pdf) |🔗[arXiv](https://arxiv.org/abs/2403.04235)
