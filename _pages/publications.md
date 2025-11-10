@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Local potential  and H\"older estimates for the linearized Monge-Ampère equatio**​  (with [G. Q. Cui], [L. Wang](https://lwmath.github.io)) 📖 Preprint (2025)  📜 |🔗[arXiv](https://arxiv.org/abs/2511.03426)
+* **Local potential  and H\"older estimates for the linearized Monge-Ampère equatio**​  (with [G. Q. Cui](), [L. Wang](https://lwmath.github.io)) 📖 Preprint (2025)  📜 |🔗[arXiv](https://arxiv.org/abs/2511.03426)
 
-* **H\"older regularity of Dirichlet problem for the complex Monge-Ampère equation**​  (with [Y. X. Hu]) 📖 Preprint (2025)  📜 |🔗[arXiv](https://arxiv.org/abs/2509.11329)
+* **H\"older regularity of Dirichlet problem for the complex Monge-Ampère equation**​  (with [Y. X. Hu]()) 📖 Preprint (2025)  📜 |🔗[arXiv](https://arxiv.org/abs/2509.11329)
 
 * **The partial Legendre transform in Monge-Ampère equations**​  (with [L. Wang](https://lwmath.github.io)) 📖 Surveys in Geometric Analysis 8(2024)  📜[PDF](http://lwmath.github.io/files/survey_PLT.pdf)
 
