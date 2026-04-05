@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Uniform estimates and Brezis-Merle type inequalities for the $k$-Hessian equation** (with [J. Deng](), [Haibin Wang]) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2603.25511)
+
 * **Local potential  and H\"older estimates for the linearized Monge-Ampère equation**​  (with [G. Q. Cui](), [L. Wang](https://lwmath.github.io)) 📖 Preprint (2025)  📜 |🔗[arXiv](https://arxiv.org/abs/2511.03426)
 
 * **H\"older regularity of Dirichlet problem for the complex Monge-Ampère equation**​  (with [Y. X. Hu]()) 📖 *Bulletin of London Mathematical Society*, 58(2025)  🌐[doi](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70323) 📜 |🔗[arXiv](https://arxiv.org/abs/2509.11329)
