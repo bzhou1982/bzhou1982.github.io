@@ -23,7 +23,7 @@ You can find me at Room 324, Zhihua Building , Peking University. <br>
 Feel free to reach out to me via email at <bzhou@pku.edu.cn>. <br>
 I'm always open to communication and collaboration!
 
-This is my [CV](http://bzhou1982.github.io/files/CV_bzhou_2026.pdf) (April 2026).
+This is my [CV](http://bzhou1982.github.io/files/CV_bzhou_2026-8.pdf) (August 2026).
 
 
 # Links
