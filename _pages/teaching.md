@@ -7,6 +7,9 @@ author_profile: true
 
 
 # Teaching
+
+### Autumn 2026, Mathematical Analysis III(Honor class), Peking University.
+
 ### Spring 2026, Mathematical Analysis II(Honor class), Peking University.
 
 ### Autumn 2025, Mathematical Analysis I(Honor class), Peking University.
