@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Interior C<sup>1,&alpha;</sup> estimates for the linearized Monge-Amp\`ere equation in two dimensions​**  (with [L. Wang](https://lwmath.github.io))
+  ​📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2608.22180)
+
+* **Uniform estimates for complex Monge-Amp\`ere equations: big cohomology classes** (with [Q. T. Dang](https://quangtuandang.github.io/Webpage/), [L. Zhang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2608.19600)
 
 * **Uniform estimates and Brezis-Merle type inequalities for the $k$-Hessian equation** (with [J. Deng](), [H. B. Wang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2603.25511)
 
