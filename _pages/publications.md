@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Uniform estimates for complex Monge-Amp\`ere equations: Hermitian manifold** (with [Q. T. Dang](https://quangtuandang.github.io/Webpage/), [L. Zhang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2610.39259)
+
 * **Global H\"older estimates for linearized Monge--Amp\`ere equations in divergence form with applications to dual semigeostrophic equations and homogenization​**  (with [G. Q. Cui](),[C. Gu](https://sites.google.com/view/chonggu/), [N. Q. Le](https://nqle.pages.iu.edu/), [L. Wang](https://lwmath.github.io))  ​📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2610.02071)
 
 * **Uniqueness and Stability of Monge-Amp\`ere Potentials in Big Cohomology Classes** (with [Q. T. Dang](https://quangtuandang.github.io/Webpage/), [L. Zhang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2609.00810)
