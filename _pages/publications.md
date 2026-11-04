@@ -9,7 +9,7 @@ author_profile: true
 
 * **Global H\"older estimates for linearized Monge--Amp\`ere equations in divergence form with applications to dual semigeostrophic equations and homogenization​**  (with [G. Q. Cui](),[C. Gu](https://sites.google.com/view/chonggu/), [N. Q. Le](https://nqle.pages.iu.edu/), [L. Wang](https://lwmath.github.io))  ​📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2610.02071)
 
-* **Uniqueness and Stability of Monge-Amp\`ere Potentials in Big Cohomology Classes** (with [Q. T. Dang](https://quangtuandang.github.io/Webpage/), [L. Zhang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2609.00810)
+* **Uniqueness and stability of Monge-Amp\`ere potentials in big cohomology classes** (with [Q. T. Dang](https://quangtuandang.github.io/Webpage/), [L. Zhang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2609.00810)
 
 * **Interior C<sup>1,&alpha;</sup> estimates for the linearized Monge-Amp\`ere equation in two dimensions​**  (with [L. Wang](https://lwmath.github.io))
   ​📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2608.22180)
