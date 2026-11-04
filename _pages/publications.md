@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+* **Uniqueness and Stability of Monge-Amp\`ere Potentials in Big Cohomology Classes** (with [Q. T. Dang](https://quangtuandang.github.io/Webpage/), [L. Zhang]()) 📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2609.00810)
+
 * **Interior C<sup>1,&alpha;</sup> estimates for the linearized Monge-Amp\`ere equation in two dimensions​**  (with [L. Wang](https://lwmath.github.io))
   ​📖 Preprint (2026)  📜 |🔗[arXiv](https://arxiv.org/abs/2608.22180)
 
